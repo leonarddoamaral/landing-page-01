@@ -17,7 +17,7 @@ body{
     grid-template-columns: 50% 50%;
 }
 .principal{
-    background-image: url(/img/fundo.png);
+    background-image: url("img/fundo.png");
     background-repeat: no-repeat;
     background-size: contain;
     text-align: center;
