@@ -8,7 +8,7 @@ Pegeuei alguns elementos da torcida, momentos historicos, jogadores, para remete
 Além de trazer a cor vermelha em destaque para remeter à doação de sangue.<br>
 
 </br>
-Landing Page antes:<br>
+Landing Page original:<br>
 </br>
 <img src="https://github.com/user-attachments/assets/b46bd624-60af-4f0d-9ceb-1a1d899ba2a9"/><br>
 
