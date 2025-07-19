@@ -4,7 +4,7 @@
 
 </br>
 💡Tive como inspiração o projeto SANGUE CORINTHIANO que incentiva a doação de sangue aos torcedores corinthianos.
-Pegeuei alguns elementos da torcida, momentos historicos, jogadores, para remeter ao clube.
+peguei alguns elementos da torcida, momentos historicos, jogadores, para remeter ao clube.
 Além de trazer a cor vermelha em destaque para remeter à doação de sangue.<br>
 
 </br>
